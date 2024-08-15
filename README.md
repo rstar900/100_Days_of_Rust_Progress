@@ -11,4 +11,5 @@ Day-04 | [Is Johny Making Progress](https://github.com/rstar900/100-Days-Of-Rust
 Day-05 | [Pair of Socks](https://github.com/rstar900/100-Days-Of-Rust/tree/main/Week-01/Day-05_Pair-Of-Socks)
 Day-06 | [Next Prime](https://github.com/rstar900/100-Days-Of-Rust/tree/main/Week-01/Day-06_Next-Prime)
 Day-07 | [Merge Sorted Arrays](https://github.com/rstar900/100-Days-Of-Rust/tree/main/Week-01/Day-07_Merge-Sorted-Array)
-Day-08 | [Letter Combinations of a Phone Number](https://github.com/rstar900/100-Days-Of-Rust/tree/main/Week-02/Day-08_Letter-Combinations-Of-A-Phone-Number)
+Day-08 | [Letter Combinations of a Phone Number](https://github.com/rstar900/100-Days-Of-Rust/tree/main/Week-02/Day-08_Letter-Combinations-Of-A-Phone-Number)  
+Day-09 | [Trapping Rain Water](https://github.com/rstar900/100-Days-Of-Rust/tree/main/Week-02/Day-09_Trapping-Rain-Water)
