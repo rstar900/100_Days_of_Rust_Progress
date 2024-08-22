@@ -15,3 +15,4 @@ Day-08 | [Letter Combinations of a Phone Number](https://github.com/rstar900/100
 Day-09 | [Trapping Rain Water](https://github.com/rstar900/100-Days-Of-Rust/tree/main/Week-02/Day-09_Trapping-Rain-Water)
 Day-10 | [Unique Binary Search Tree](https://github.com/rstar900/100-Days-Of-Rust/tree/main/Week-02/Day-10_Unique-Binary-Search-Trees)
 Day-11 | [Restore IP Addresses](https://github.com/rstar900/100-Days-Of-Rust/tree/main/Week-02/Day-11_Restore-IP-Addresses) 
+Day-12 | [Mountains or Valleys](https://github.com/rstar900/100-Days-Of-Rust/tree/main/Week-02/Day-12_Mountains_And_Valleys)
