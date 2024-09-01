@@ -17,3 +17,4 @@ Day-10 | [Unique Binary Search Tree](https://github.com/rstar900/100-Days-Of-Rus
 Day-11 | [Restore IP Addresses](https://github.com/rstar900/100-Days-Of-Rust/tree/main/Week-02/Day-11_Restore-IP-Addresses) 
 Day-12 | [Mountains or Valleys](https://github.com/rstar900/100-Days-Of-Rust/tree/main/Week-02/Day-12_Mountains_And_Valleys)
 Day-13 | [Need Help With Your Packing](https://github.com/rstar900/100-Days-Of-Rust/tree/main/Week-02/Day-13_Need-Help-With-Packing)
+Day-14 | [The Karacas Encryption Algorithm](https://github.com/rstar900/100-Days-Of-Rust/tree/main/Week-02/Day-14_Karacas-Encryption-Algorithm)
