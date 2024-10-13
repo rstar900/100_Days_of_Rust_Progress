@@ -19,3 +19,4 @@ Day-12 | [Mountains or Valleys](https://github.com/rstar900/100-Days-Of-Rust/tre
 Day-13 | [Need Help With Your Packing](https://github.com/rstar900/100-Days-Of-Rust/tree/main/Week-02/Day-13_Need-Help-With-Packing)
 Day-14 | [The Karacas Encryption Algorithm](https://github.com/rstar900/100-Days-Of-Rust/tree/main/Week-02/Day-14_Karacas-Encryption-Algorithm)
 Day-15 | [Valid Anagram](https://github.com/rstar900/100-Days-Of-Rust/tree/main/Week-03/Day-15_Valid-Anagram)
+Day-16 |  [Nim Game](https://github.com/rstar900/100-Days-Of-Rust/tree/main/Week-03/Day-16_Nim-Game)
